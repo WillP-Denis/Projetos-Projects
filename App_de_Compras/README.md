@@ -5,10 +5,7 @@
 
     Welcome to Streamlit. Check out our demo in your browser.
 
-    Local URL: http://localhost:8501
-    Network URL: http://192.168.1.10:8501
+  You can now view your Streamlit app in your browser.
 
-    Ready to create your own Python apps super quickly?
-    Head over to https://docs.streamlit.io
-
-    May you create awesome apps!
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.10:8501
